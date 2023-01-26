@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SK-4
 -I’m interested in python development and having fun learning Data Structures and Algorithms.
--🌱I’m currently learning django and flask frameworks.
+-🌱I’m currently learning data science and machine learning and deploying ml models in an interactive way using streamlit.
 - I'm pursuing Honours in Artificial Intelligence
 -I’m looking to collaborate on new interesting python projects.
 

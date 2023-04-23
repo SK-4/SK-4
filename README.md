@@ -20,7 +20,7 @@ Anything related to Python, Data Science, or Machine Learning. I'm always happy 
 
 ## 📫 How to reach me
 
-You can contact me via my [LinkedIn profile](https://www.linkedin.com/in/SK-4/). Let's connect!
+You can contact me via my [LinkedIn profile](https://www.linkedin.com/in/soham-kshirsagar4/). Let's connect!
 
 ## ⚡ Fun fact
 

@@ -45,7 +45,7 @@ print("Let's work together to build some amazing applications using Python and D
 
 # Display some of your recent GitHub commits
 print("\nHere are some of my latest commits:")
-url = "https://api.github.com/users/sohamkshirsagar4/events"
+url = "https://api.github.com/users/SK-4/events"
 response = requests.get(url)
 events = response.json()
 

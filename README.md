@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Kshirsagar</h1>
-<h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India.</h3>
+<h3 align="center">A Full Stack Developer and Machine Learning Enthusiast from India.</h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SK-4&label=Profile%20Views&color=E80000&style=flat-square" alt="SK-4" /> </p>

@@ -7,7 +7,7 @@
 --> 
 
 
-Hi, I'm Soham Kshirsagar, a Full Stack Developer, Machine Learning Enthusiast and Tech Learner 🚀 from India. <br> <br> 
+A Full Stack Developer, Machine Learning Enthusiast and Tech Learner 🚀 from India. <br> <br> 
 ![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sohamkshirsagar7@gmail.com)
 <br />
 
